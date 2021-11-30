@@ -1,7 +1,15 @@
 ### Hello World! 👋
+
+<br>
 I'm Quynh Anh, a software engineer. I am interested in web full-stack developement and machine learning.
 
 Aside from coding, I also love drawing (mainly anime), playing games and interested in Chess (though I'm very bad at it).
+
+<br>
+
+---
+
+### Contact me
 
 <br/>
 
@@ -10,6 +18,8 @@ Aside from coding, I also love drawing (mainly anime), playing games and interes
 [<img align="left" alt="quingzz | Reddit" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.0.0/reddit.svg"/>][reddit]
 
 <br />
+
+---
 
 ### Languages and Tools I have used:
 
@@ -52,8 +62,9 @@ Aside from coding, I also love drawing (mainly anime), playing games and interes
 ---
 
 <div>:zap: GitHub Stats</div>
+<br/>
 
-<img align="left" alt="quingzz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=quingzz&count_private=true&hide=stars" />
+<img align="left" alt="quingzz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=quingzz&hide=stars" />
 
 
 

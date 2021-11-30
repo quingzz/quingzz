@@ -15,9 +15,9 @@ Aside from coding, I also love drawing (mainly anime), playing games and interes
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="Python" width="26px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.0.0/python.svg" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 
-<img align="left" alt="Java" width="26px" src="hhttps://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.0.0/java.svg" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
@@ -33,7 +33,7 @@ Aside from coding, I also love drawing (mainly anime), playing games and interes
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-<img align="left" alt="Firebase" width="26px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.0.0/firebase.svg" />
+<img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 

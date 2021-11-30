@@ -1,11 +1,8 @@
 ### Hello World! 👋
 
-<br>
 I'm Quynh Anh, a software engineer. I am interested in web full-stack developement and machine learning.
 
 Aside from coding, I also love drawing (mainly anime), playing games and interested in Chess (though I'm very bad at it).
-
-<br>
 
 ### Contact me
 

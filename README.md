@@ -53,7 +53,7 @@ Aside from coding, I also love drawing (mainly anime), playing games and interes
 
 <div>:zap: GitHub Stats</div>
 
-<img align="left" alt="quingzz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=quingzz&hide=stars&count_private=true" />
+<img align="left" alt="quingzz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=quingzz&count_private=true&hide=stars" />
 
 
 

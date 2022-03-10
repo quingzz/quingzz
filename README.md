@@ -2,15 +2,15 @@
 
 I'm Quynh Anh, a software engineer. I am interested in web full-stack developement and machine learning.
 
-Aside from coding, I also love drawing (mainly anime), playing games and interested in Chess (though I'm very bad at it).
+Aside from coding, I also love drawing (mainly anime), playing games, interested in Chess and solving Rubik's cube (though I'm very bad at them).
 
 ### Contact me
 
 <br/>
 
-[<img align="left" alt="quingzz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="quingzz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="quingzz | Reddit" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.0.0/reddit.svg"/>][reddit]
+[<img align="left" alt="quingzz | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>][github]
 
 <br />
 
@@ -65,6 +65,6 @@ Aside from coding, I also love drawing (mainly anime), playing games and interes
 
 
 <!-- Links Definitions -->
-[twitter]: https://twitter.com/quingzzz
 [linkedin]: https://www.linkedin.com/in/truong-quynh-anh-phan-219572212/
 [reddit]: https://www.reddit.com/user/quingzzz
+[github]: https://github.com/s3818245

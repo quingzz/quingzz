@@ -2,8 +2,6 @@
 
 I'm Quynh Anh, a software engineer. I am interested in backend developement and machine learning.
 
-Aside from coding, I also love drawing (mainly anime), playing games, interested in Chess and solving Rubik's cube (though I'm very bad at them).
-
 ### Contact me
 
 <br/>

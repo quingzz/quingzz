@@ -12,7 +12,7 @@
 <div>:zap: GitHub Stats</div>
 <br/>
 
-![quingzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=quingzz&count_private=true&show_icons=true)
+![quingzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=quingzz&count_private=true&hide_rank=true&show_icons=true)
 
 
 
